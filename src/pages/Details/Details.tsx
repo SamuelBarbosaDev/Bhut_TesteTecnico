@@ -22,7 +22,7 @@ export default function App() {
         <div className='flex-container'>
             {obj?.map((carrosa, index)=>
                 <div className='card'>
-                    <h1>{carrosa[0]}</h1>
+                    <li>{carrosa[0]}</li>
                 </div>
             )}
         </div>
