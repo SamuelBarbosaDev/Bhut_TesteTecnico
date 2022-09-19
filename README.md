@@ -12,6 +12,7 @@
     </p>
     
   * Acesse a pasta /bhut-react `cd bhut-react/`
+  * Execute o comando `yarn`
   * Execute o comando `yarn start` ou `npm start` para executa o projeto
    
 
