@@ -33,7 +33,7 @@ export const DrawerMenu: React.FC <IAppDrawerMenu> = ({ children }) => {
             <Box flex={1}>
                 <List component="nav">
 
-                <a href="/">
+                <a href="/bhut-react">
                     <ListItemButton>
                         <ListItemIcon>
                             <Icon>home</Icon>
