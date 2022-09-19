@@ -4,6 +4,8 @@
         Consumir uma api rest, utilizando React e Typescript.
     </p>
     
+
+
 <h3>Como Funciona:</h3>
     <p>
         Para rodando o projeto localmente, você precisara realizar os seguintes passos:
@@ -13,12 +15,15 @@
    * Execute o comando `yarn start` ou `npm start` para executa o projeto
    
 
+
 <h3> O que aprendi:</h3>
     <p>
-        - Aprendi Muito sobre Material UI, uma ferramenta que tornou me mais eficiente.
-        - Conheci o novo sistema de rotas do React "react-router-dom 6".
-        - Porém, o principal foi que me desafiei
+        * Aprendi Muito sobre Material UI, uma ferramenta que tornou me mais eficiente.
+        * Conheci o novo sistema de rotas do React "react-router-dom 6".
+        * Porém, o principal foi que me desafiei
     </p>
+
+
 
 <h3>Tecnologias utilizadas:</h3>
 
