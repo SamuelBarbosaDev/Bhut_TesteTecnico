@@ -1,0 +1,36 @@
+.flex-container {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+  }
+
+.card{
+    padding: 10px;
+}
+
+.informacao_do_card{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    align-content: center;
+    margin: 10px;
+}
+
+
+.child {
+    margin: 10px;
+    display: block;
+    flex-grow: 0;
+    flex-shrink: 1;
+    flex-basis: auto;
+    align-self: auto;
+    order: 0;
+    border-radius: 20px;
+    background-color: rgb(212, 206, 206);
+    color: white;
+  }
