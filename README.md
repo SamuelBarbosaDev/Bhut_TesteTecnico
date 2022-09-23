@@ -1,4 +1,4 @@
-<h1>BHUT - Teste</h1>
+<h1>BHUT</h1>
 <h3>Objetivo:</h3>
     <p>
         Consumir uma api rest, utilizando React e Typescript.
