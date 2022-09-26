@@ -8,7 +8,7 @@
 
 <h3>Como Funciona:</h3>
     <p>
-        Para rodando o projeto localmente, você precisara realizar os seguintes passos:
+        Para rodar o projeto localmente, você precisará realizar os seguintes passos:
     </p>
     
   * Acesse a pasta /bhut-react `cd bhut-react/`
